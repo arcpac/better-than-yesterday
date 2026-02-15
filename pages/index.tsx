@@ -7,17 +7,20 @@ function HomePage() {
       <Container>
         <div className="space-y-6">
           <h1 className="text-2xl font-bold">
-            Hey, I'm a Senior Software Engineer at Company. I enjoy working with
-            Next.js and crafting beautiful front-end experiences.
+            Better Than Yesterday: Dev — practical notes on building software, one improvement at a time.
           </h1>
+
           <p>
-            This portfolio is built with Next.js and a library called next-mdx.
-            It allows you to write Markdown and focus on the content of your
-            portfolio.
+            I’m Anton, a software developer based in Sydney. I write about real-world development: building
+            reliable features, learning from mistakes, and improving my craft day by day.
           </p>
 
-          <p>Deploy your own in a few minutes.</p>
+          <p>
+            Most posts focus on APIs and integration (web ↔ mobile), authentication flows, sessions, JWTs,
+            and the patterns that make apps feel solid in production.
+          </p>
         </div>
+
       </Container>
 
       <div className="container max-w-4xl m-auto px-4 mt-20">
